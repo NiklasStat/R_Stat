@@ -1,0 +1,26 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "1. Grundlagen Programmierung mit R"
+      href: bbb1.html
+    - text: "2. Data Science mit R"
+      href: index_2.html
+    - text: "3. Machine Learning"
+      href: index_3.html
+    - text: "4. Projekte mit R"
+      href: index_4.html
+    - text: "Testen"
+      href: test_markdown.html
+output:
+   github_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    number_sections: true
+    theme: lumen
+    toc_depth: 4
+  github_document:
+    theme: jekyll-theme-slate  

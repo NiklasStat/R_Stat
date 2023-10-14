@@ -1,0 +1,16 @@
+---
+title: "My cats have a website!"
+---
+
+This is John.
+
+<img src="images/reg.png" style="width:50%">
+
+This is.
+
+<img src="images/bias.png" style="width:50%">
+
+R_logo.
+
+<img src="images/R_logo.png" style="width:50%">
+
